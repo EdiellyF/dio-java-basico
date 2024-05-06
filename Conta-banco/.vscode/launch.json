@@ -39,17 +39,10 @@
         },
         {
             "type": "java",
-            "name": "Operadores",
+            "name": "ContaTerminal",
             "request": "launch",
-            "mainClass": "Operadores",
-            "projectName": "variaveis-trilha_c41a5fd7"
-        },
-        {
-            "type": "java",
-            "name": "TiposVariaveis",
-            "request": "launch",
-            "mainClass": "TiposVariaveis",
-            "projectName": "variaveis-trilha_c41a5fd7"
+            "mainClass": "ContaTerminal",
+            "projectName": "Conta-banco_db02fd15"
         }
     ]
 }
